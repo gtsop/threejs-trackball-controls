@@ -1,0 +1,23 @@
+{
+  "name": "threejs-trackball-controls",
+  "version": "0.71.0",
+  "authors": [
+    "gtsop <gtsop.code@gmail.com>"
+  ],
+  "description": "Trackball controlls example from three.js project for bower",
+  "main": "TrackballControls.js",
+  "moduleType": [],
+  "keywords": [
+    "three.js",
+    "trackballcontrols"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gtsop/threejs-trackball-controls",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
